@@ -1,0 +1,36 @@
+
+p{
+color:blue;/*color  Define el color del texto}*/
+
+background-color: yellow;/*background-color: Define el color de fondo de un elemento*/
+
+font-size: 16px;/*font-size: Define el tamaño de la fuente*/
+
+font-family: Arial, sans-serif; /*font-family: Define el tipo de fuente*/
+
+font-weight: bold;/*font-weight: Define el grosor de la fuente.*/
+
+text-align: center; /*text-align: Alinea el texto dentro de un elemento.*/
+
+text-decoration: underline; /*text-decoration: Aplica decoración al texto, como subrayado o tachado*/
+
+display: block; /*display: Controla cómo se muestra un elemento en el flujo del documento*/
+
+margin: 10px;/* Define los márgenes exteriores de un elemento*/
+
+padding: 10px;/*padding: Define los márgenes interiores de un elemento*/
+
+border: 1px solid black;/*border: Define un borde alrededor de un elemento*/
+
+width: 200px;/*width: Define el ancho de un elemento*/
+
+height: 100px;/*height: Define la altura de un elemento*/
+
+float: left;/*float: Controla la posición horizontal de un elemento*/
+
+position: absolute;/*position: Controla la posición de un elemento dentro de su contenedor*/
+
+}
+
+
+
