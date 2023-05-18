@@ -31,6 +31,56 @@ float: left;/*float: Controla la posición horizontal de un elemento*/
 position: absolute;/*position: Controla la posición de un elemento dentro de su contenedor*/
 
 }
+.p{
+color:red; /*Define el color del texto*/
 
+background-color: blue;  /*Define el color de fondo de un elemento.*/
 
+font-size :3rem; /* Define el tamaño de la fuente.*/
+
+font-family: Arial, Helvetica, sans-serif;  /* Define el tipo de fuente.*/
+
+font-weight:3px;    /*Define el grosor de la fuente.*/
+
+text-align: center;   /*Alinea el texto dentro de un elemento.*/
+
+text-decoration:none;   /* Define la decoración del texto, como subrayado o tachado.*/
+
+display: flex;    /*Controla cómo se muestra un elemento.*/
+
+margin:none ;   /*Define los márgenes exteriores de un elemento.*/
+
+padding: 3px;   /*Define los márgenes interiores de un elemento.*/
+
+border:none;    /*Define un borde alrededor de un elemento.*/
+
+width:14px;     /*Define el ancho de un elemento.*/
+
+height:15px;    /*Define la altura de un elemento.*/
+
+float:left;   /*Controla la posición horizontal de un elemento.*/
+
+position:absolute;   /*Controla la posición de un elemento.*/
+
+opacity:0.5 ; /*Define la opacidad de un elemento.*/
+
+text-transform: uppercase ;   /*Transforma el texto a mayúsculas, minúsculas o capitalizado.*/
+
+list-style: circle;    /*Define el estilo de viñetas o números en listas.*/
+
+overflow: hidden;     /*Controla el comportamiento de desbordamiento de contenido.*/
+
+content: normal;   /*Define el tipo de cursor cuando se pasa el mouse sobre un elemento.*/
+
+box-shadow: inset;    /* Agrega sombra alrededor de un elemento.*/
+
+text-shadow:dimgrey;    /*Agrega sombra al texto.*/
+
+content: '\F0916'; ;   /*Define transiciones suaves entre estados de un elemento.*/
+
+content: '\F05D8'; ;    /*Crea animaciones en un elemento.*/
+
+z-index: inherit;   /*Controla el orden de apilamiento de elementos superpuestos.*/
+
+}
 
